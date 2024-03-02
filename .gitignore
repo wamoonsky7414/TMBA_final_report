@@ -1,5 +1,8 @@
 __pycache__/
+.DS_Store
 
+data/
+OFFICIAL_data_2/
 # ignore data file
 .pkl
 .csv
